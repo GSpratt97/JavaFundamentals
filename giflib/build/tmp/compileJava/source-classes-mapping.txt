@@ -1,0 +1,2 @@
+com/teamtreehouse/giflib/SpringConfig.java
+ com.teamtreehouse.giflib.SpringConfig
